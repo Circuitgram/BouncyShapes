@@ -1,0 +1,5 @@
+﻿  Scene.cpp
+f:\csci 101\bouncy-shapes-initial-master\bouncyshapes\scene.cpp(13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\csci 101\bouncy-shapes-initial-master\bouncyshapes\scene.cpp(14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\csci 101\bouncy-shapes-initial-master\bouncyshapes\scene.cpp(15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  BouncyShapes.vcxproj -> F:\CSCI 101\bouncy-shapes-initial-master\x64\Debug\BouncyShapes.exe
